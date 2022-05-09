@@ -1,0 +1,10 @@
+Abrir terminal na pasta SERVER
+digitar "npm run dev"
+Assim se inicializa o servidor
+
+Abrir vscode na pasta Meu-app
+digitar expo start
+logar no expo do celular
+
+
+Pronto!!!
